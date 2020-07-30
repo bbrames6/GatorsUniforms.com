@@ -147,7 +147,7 @@ body{
     
         padding: 0px;
         margin: 0px;
-        font-size: 6vw;
+        font-size: 4.5vw;
 }
 
 
@@ -262,7 +262,7 @@ body{
     text-align: center;
     font-family: Oswald;
     text-transform: uppercase;
-    font-size: 6vw;
+    font-size: 4.5vw;
     transform: none;
     padding-top: 4vw;
 }
@@ -457,10 +457,10 @@ footer{
 
 .container-fluid h5{
     font-family: 'Roboto' sans-serif;
-    font-size: 30px;
+    font-size: 20px;
     text-transform: uppercase;
     letter-spacing: 2px;
-    padding-bottom: 1rem;
+    padding-bottom: 0rem;
 }
 
 .container-fluid h6{
@@ -470,7 +470,7 @@ footer{
 .container-fluid h4{
     text-transform: uppercase;
     font-family: 'Roboto', sans-serif;
-    font-size: 20px;
+    font-size: 15px;
 }
 
 .container-fluid h3{
