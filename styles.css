@@ -216,7 +216,7 @@ body{
 
 .news-gallery .img-1{
     grid-area: img-1;
-    background-image: url("images/Zero.jpg");
+    background-image: url("images/fraziars2.jfif");
     box-shadow: inset 0px -100px 30px rgba(0, 0, 0, 0.6);
     -webkit-filter: drop-shadow(1px 1px 1px rgba(114, 114, 114, 0.5));
     filter: drop-shadow(1px 1px 1px rgb(114, 114, 114));
@@ -224,7 +224,7 @@ body{
 
 .news-gallery .img-2{
     grid-area: img-2;
-    background-image: url("images/mullenwebsite.jpeg");
+    background-image: url("images/BrentonCox1.jpg");
     box-shadow: inset 0px -100px 30px rgba(0, 0, 0, 0.6);
     -webkit-filter: drop-shadow(1px 1px 1px rgba(114, 114, 114, 0.5));
     filter: drop-shadow(1px 1px 1px rgb(114, 114, 114));
@@ -232,7 +232,7 @@ body{
 
 .news-gallery .img-3{
     grid-area: img-3;
-    background-image: url("images/FSUnews.jpg");
+    background-image: url("images/mullenwebsite.jpeg");
     box-shadow: inset 0px -100px 30px rgba(0, 0, 0, 0.6);
     -webkit-filter: drop-shadow(1px 1px 1px rgba(114, 114, 114, 0.5));
     filter: drop-shadow(1px 1px 1px rgb(114, 114, 114));
