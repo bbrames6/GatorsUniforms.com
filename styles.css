@@ -216,7 +216,7 @@ body{
 
 .news-gallery .img-1{
     grid-area: img-1;
-    background-image: url("images/BlueScriptHelmetWordmark.jpg");
+    background-image: url("images/Richardson.jpeg");
     box-shadow: inset 0px -100px 30px rgba(0, 0, 0, 0.6);
     -webkit-filter: drop-shadow(1px 1px 1px rgba(114, 114, 114, 0.5));
     filter: drop-shadow(1px 1px 1px rgb(114, 114, 114));
@@ -224,7 +224,7 @@ body{
 
 .news-gallery .img-2{
     grid-area: img-2;
-    background-image: url("images/ufkentucky.jpg");
+    background-image: url("images/BlueScriptHelmetWordmark.jpg");
     box-shadow: inset 0px -100px 30px rgba(0, 0, 0, 0.6);
     -webkit-filter: drop-shadow(1px 1px 1px rgba(114, 114, 114, 0.5));
     filter: drop-shadow(1px 1px 1px rgb(114, 114, 114));
